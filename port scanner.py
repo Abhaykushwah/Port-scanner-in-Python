@@ -4,7 +4,7 @@ scanner = nmap.PortScanner()
 
 print(" This Nmap script is created by Abhay")
 ip_addr = input("Please Enter IP address you want to scan : ")
-print("You enter th3 following addr to scan ", ip_addr)
+print("You enter the following addr to scan ", ip_addr)
 
 resp = int(input(""" \n Please enter the type of scan you want to run 
             1) SYN ACK scan
